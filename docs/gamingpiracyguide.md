@@ -781,6 +781,7 @@
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
 * [Chess Base](https://www.chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
 * [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
+* [OpenFront](https://openfront.app/) / [Discord](https://discord.gg/f2gPmFVs)- Strategic Multiplayer Battle Arena
 
 ***
 
